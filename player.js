@@ -23,5 +23,5 @@ class Player {
     }
 }
 
-// Ensure the Player class is defined
+// Log to confirm that the Player class is defined
 console.log('Player class defined:', typeof Player !== 'undefined');
